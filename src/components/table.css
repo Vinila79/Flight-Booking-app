@@ -1,0 +1,32 @@
+.sectioncontainer{
+    max-width: 72rem;
+    /* margin-left: auto; */
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 100px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.section{
+    overflow: auto;
+   
+}
+.table{
+    display:table;
+    
+    
+}
+.tablehead{
+    --tw-bg-opacity: 1;
+    background-color: rgb(203 213 225 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity));
+    border-radius: 0.125rem;
+}
+.btn{
+    --tw-bg-opacity: 1;
+    background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity))
+
+}
